@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://saucedemo.com/",
+  "integrationFolder": "cypress/tests"
+}
